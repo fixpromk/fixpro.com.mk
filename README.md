@@ -9,13 +9,10 @@
 </head>
 <body>
     <header>
-        <div class="logo">Your Product Store</div>
+        <div class="logo">FixPro</div>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#products">Products</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+        
             </ul>
         </nav>
     </header>
@@ -72,7 +69,7 @@
         <h2>Contact Us</h2>
         <p>For more information or to place an order, please get in touch with us:</p>
         <ul>
-            <li>Email: info@yourproductstore.com</li>
+            <li>Email: clientfixpro@gmail.com</li>
             <li>Phone: +123 456 7890</li>
             <li>Address: 1234 Main St, City, Country</li>
         </ul>
